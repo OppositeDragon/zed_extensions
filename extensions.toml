@@ -1193,8 +1193,8 @@ version = "0.0.1"
 submodule = "extensions/freemarker"
 version = "0.1.0"
 
-[freezed-snippets]
-submodule = "extensions/freezed-snippets"
+[freezed-dart-flutter-snippets]
+submodule = "extensions/freezed-dart-flutter-snippets"
 version = "0.0.1"
 
 [frosted-theme]
@@ -3040,8 +3040,8 @@ version = "0.0.5"
 submodule = "extensions/risor"
 version = "0.0.2"
 
-[riverpod-snippets]
-submodule = "extensions/riverpod-snippets"
+[riverpod-dart-flutter-snippets]
+submodule = "extensions/riverpod-dart-flutter-snippets"
 version = "0.0.1"
 
 [robot-framework]
